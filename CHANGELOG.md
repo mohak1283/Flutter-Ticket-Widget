@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - RELEASE.
 
-* TODO: Describe initial release.
+* A Flutter Ticket Widget package written in Dart.

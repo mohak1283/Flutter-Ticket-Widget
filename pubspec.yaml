@@ -1,8 +1,8 @@
 name: flutter_ticket_widget
-description: A new Flutter package.
+description: A new Flutter package which helps you implement Ticket Widget in your app.
 version: 0.0.1
-author: Mohak Gupta
-homepage: 
+author: Mohak Gupta <mohak1283@gmail.com>
+homepage: https://github.com/mohak1283/Flutter-Ticket-Widget
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

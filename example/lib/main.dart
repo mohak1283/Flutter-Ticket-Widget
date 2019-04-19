@@ -99,15 +99,9 @@ class _HomeScreenState extends State<HomeScreen> {
                     ],
                   ),
                 ),
+                
                 Padding(
-                  padding: const EdgeInsets.only(top: 25.0),
-                  child: Divider(
-                    color: Colors.grey,
-                    height: 50.0,
-                  )
-                ),
-                Padding(
-                  padding: const EdgeInsets.all(30.0),
+                  padding: const EdgeInsets.only(top: 80.0, left: 30.0, right: 30.0),
                   child: Container(
                     width: 250.0,
                     height: 60.0,
